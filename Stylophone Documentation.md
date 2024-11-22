@@ -33,17 +33,19 @@ Once all components are soldered, the circuit board can be powered on. Before do
 The enclosure is typically 3D-printed. Since a hole for one potentiometer is missing and the existing one is too small, these must be drilled or re-drilled.
 
 - **Potentiometer Hole:** Use a 5.5mm drill to enlarge the existing hole (see Figure 1). Measure 20mm to the right from the center of this hole and drill another 5.5mm hole there.
-- **Potentiometer Mounting:** Attach the potentiometers from the inside using hot glue. Be careful not to glue over the rotary part of the potentiometer.
-- **Stylus Storage Hole:** Drill this hole with a 5mm drill to store the stylus when not in use (see Figure 2).
-- **Screw Inserts:** To attach the lid later, insert nuts into the back right and left sides of the enclosure. Use heat-set or solder-in nuts and melt them into the holes with a soldering iron until they are flush with the surface (see Figure 3).
 
-  <img src="bilder/Abbildung1.png" width="50%" text-align: center>
+    <img src="bilder/Abbildung1.png" width="50%" text-align: center>
 
   _Figure 1_
-
-  <img src="bilder/Abbildung2.png" width="50%" text-align: center>
+  
+- **Potentiometer Mounting:** Attach the potentiometers from the inside using hot glue. Be careful not to glue over the rotary part of the potentiometer.
+- **Stylus Storage Hole:** Drill this hole with a 5mm drill to store the stylus when not in use (see Figure 2).
+  
+    <img src="bilder/Abbildung2.png" width="50%" text-align: center>
 
   _Figure 2_
+  
+- **Screw Inserts:** To attach the lid later, insert nuts into the back right and left sides of the enclosure. Use heat-set or solder-in nuts and melt them into the holes with a soldering iron until they are flush with the surface (see Figure 3).
 
   <img src="bilder/Abbildung3.png" width="50%" text-align: center>
 
