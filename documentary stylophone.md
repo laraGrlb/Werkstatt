@@ -8,7 +8,7 @@ For the resistors, it is important that they closely match the specified values 
 For the IC, ensure that it is soldered with the correct orientation. Pin 1 is usually marked with a dot or a line.
 
 ### 2. Preparing Wires
-Cut 4 red wires and 6 black wires, each with a diameter of 0.2 mm (or 0.25 mm if necessary) and a length of 120 mm. Additionally, cut one red and two black wires to a length of 230 mm. Strip 10 mm of isulation from both ends of all wires.
+Cut 4 red wires and 6 black wires, each with a diameter of 0.2 mm (or 0.25 mm if necessary) and a length of 120 mm. Additionally, cut one red and two black wires to a length of 230 mm. Strip 10 mm of isolation from both ends of all wires.
 
 ### 3. Speaker
 Solder one red and one black wire, each 230 mm long, to the speaker. The polarity does not matter here since it only determines whether the speaker moves inward or outward. However, if multiple speakers are used, ensure they are all connected with the same polarity to prevent interference between sound waves, which could distort the sound. Use automotive soldering paste to solder the wires to the speaker housing. This paste contains a special, more aggressive flux that ensures a better connection to the metal (iron).
