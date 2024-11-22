@@ -42,25 +42,25 @@ Das Gehäuse wird grundsätzlich mit dem 3D-Drucker gedruckt. Da ein Loch für e
 
 ![Ein Bild, das Design enthält.
 
-Abbildung 1
+_Abbildung 1_
 
 Der rote Pfeil (Abbildung 1) zeigt auf das Loch für das Potenziometer vorgesehen ist, jedoch muss noch mit einem 5,5mm Bohrer nachgebohrt werden. Von der Mitte dieser Bohrung aus werden 20mm nach rechts abgemessen und dort ebenfalls eine Bohrung von 5,5mm vorgenommen.
 
 Zum Befestigen der Potenziometer werden diese mit Heißkleber von innen angeklebt. Die Kontakte dürfen dabei überklebt werden, jedoch muss darauf geachtet werden, dass der drehbare Teil des Potis nicht festgeklebt wird.
 
-Damit der Stift während er nicht im Gebrauch ist verstaut wird, muss dieses Loch ebenfalls noch mit einem 4,5mm oder 5mm Bohrer nachgebohrt werden (Abbildung 2).
+Damit der Stift während er nicht im Gebrauch ist verstaut wird, muss dieses Loch ebenfalls noch mit einem 5mm Bohrer nachgebohrt werden (Abbildung 2).
 
 ![Ein Bild, das Design enthält.
 
 
-Abbildung 2
+_Abbildung 2_
 
 Um später den Deckel anschrauben zu können, werden rechts und links hinten Muttern „eingeschmolzen“ in das Gehäuse. Dazu werden Einschmelzmuttern oder Einlötmuttern auf die Bohrungen gelegt und so lange mit der Lötspitze erhitzt, bis sie plant mit der Oberkante abschließt Abbildung 3).
 
 ![Ein Bild, das Design enthält.
 
 
-Abbildung 3
+_Abbildung 3_
 
 ### 8. Platine einbauen
 
