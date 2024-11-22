@@ -41,6 +41,7 @@ Wenn alle Bauteile angelötet sind, kann die Platine in Betrieb genommen werden.
 Das Gehäuse wird grundsätzlich mit dem 3D-Drucker gedruckt. Da ein Loch für ein Potenziometer fehlt und das Vorhandene zu klein ist, müssen diese neu bzw. nachgebohrt werden.
 
 <img src="bilder/Abbildung1.png" width="50%" text-align: center>
+
 _Abbildung 1_
 
 
@@ -59,6 +60,7 @@ _Abbildung 2_
 Um später den Deckel anschrauben zu können, werden rechts und links hinten Muttern „eingeschmolzen“ in das Gehäuse. Dazu werden Einschmelzmuttern oder Einlötmuttern auf die Bohrungen gelegt und so lange mit der Lötspitze erhitzt, bis sie plant mit der Oberkante abschließt Abbildung 3).
 
 <img src="bilder/Abbildung3.png" width="50%" text-align: center>
+
 _Abbildung 3_
 
 ### 8. Platine einbauen
