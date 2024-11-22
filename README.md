@@ -40,8 +40,7 @@ Wenn alle Bauteile angelötet sind, kann die Platine in Betrieb genommen werden.
 
 Das Gehäuse wird grundsätzlich mit dem 3D-Drucker gedruckt. Da ein Loch für ein Potenziometer fehlt und das Vorhandene zu klein ist, müssen diese neu bzw. nachgebohrt werden.
 
-![Ein Bild, das Design enthält.
-
+![Abbildung 1](bilder/Abbildung1.png)
 _Abbildung 1_
 
 Der rote Pfeil (Abbildung 1) zeigt auf das Loch für das Potenziometer vorgesehen ist, jedoch muss noch mit einem 5,5mm Bohrer nachgebohrt werden. Von der Mitte dieser Bohrung aus werden 20mm nach rechts abgemessen und dort ebenfalls eine Bohrung von 5,5mm vorgenommen.
@@ -51,15 +50,11 @@ Zum Befestigen der Potenziometer werden diese mit Heißkleber von innen angekleb
 Damit der Stift während er nicht im Gebrauch ist verstaut wird, muss dieses Loch ebenfalls noch mit einem 5mm Bohrer nachgebohrt werden (Abbildung 2).
 
 ![Abbildung 2](bilder/Abbildung2.png)
-
-
 _Abbildung 2_
 
 Um später den Deckel anschrauben zu können, werden rechts und links hinten Muttern „eingeschmolzen“ in das Gehäuse. Dazu werden Einschmelzmuttern oder Einlötmuttern auf die Bohrungen gelegt und so lange mit der Lötspitze erhitzt, bis sie plant mit der Oberkante abschließt Abbildung 3).
 
-![Ein Bild, das Design enthält.
-
-
+![Abbildung 3](bilder/Abbildung3.png)
 _Abbildung 3_
 
 ### 8. Platine einbauen
