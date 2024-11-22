@@ -1,5 +1,3 @@
-# Werkstatt
-
 # Dokumentation Stylophon
 
 ### Platine bestücken
@@ -8,7 +6,7 @@ Beim Bestücken einer Platine wird immer so vorgegangen, dass man mit den kleins
 
 Bei den Widerständen ist zu beachten, dass sie möglichst genau mit den vorgegebenen Werten übereinstimmen. Somit gleichen die Pads einer Tonleiter und es kommen keine großen Sprünge zwischen Tönen vor. Da die meisten Widerstandswerte keine Normwerte sind, müssen mehrere Widerstände parallel bzw. in serie geschaltet (übereinander gelötet) werden.
 
-Berechnung:
+__Berechnung:__
 
 Beim IC ist wichtig zu beachten, dass dieser richtig gepolt eingelötet wird. Der Pin 1 wird meist gekennzeichnet durch einen Punkt oder einen Strich.
 
