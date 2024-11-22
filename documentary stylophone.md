@@ -41,7 +41,7 @@ The enclosure is typically 3D-printed. Since a hole for one potentiometer is mis
 Slide the circuit board horizontally into the enclosure from the back, with the large copper areas facing forward. Connect the 9V battery and place it under the circuit board.
 
 ### 9. Stylus
-Prepare a 10 cm piece of copper wire with a specific cross-section \(X\) (insert value) and file one end to a point. Strip 15 mm of insulation from both ends and solder one end to the 230 mm wire using a large soldering tip and plenty of solder. Secure the solder joint with a 4 cm piece of heat shrink tubing, shrunk using a hot air gun.
+Prepare a 10 cm piece of copper wire with a specific cross-section \(X\) (insert value) and file one end round. Strip 15 mm of insulation from both ends and solder one end to the 230 mm wire using a large soldering tip and plenty of solder. Secure the solder joint with a 4 cm piece of heat shrink tubing, shrunk using a hot air gun.
 
 ### 10. Attaching the Buttons
 To produce a tone during operation, both buttons must be pressed simultaneously. Before screwing on the lid, insert the printed button through the hole in the lid.
