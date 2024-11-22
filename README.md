@@ -50,7 +50,7 @@ Zum Befestigen der Potenziometer werden diese mit Heißkleber von innen angekleb
 
 Damit der Stift während er nicht im Gebrauch ist verstaut wird, muss dieses Loch ebenfalls noch mit einem 5mm Bohrer nachgebohrt werden (Abbildung 2).
 
-![Ein Bild, das Design enthält.
+![Abbildung 1](Pfad/zur/Datei)
 
 
 _Abbildung 2_
