@@ -37,6 +37,18 @@ The enclosure is typically 3D-printed. Since a hole for one potentiometer is mis
 - **Stylus Storage Hole:** Drill this hole with a 5mm drill to store the stylus when not in use (see Figure 2).
 - **Screw Inserts:** To attach the lid later, insert nuts into the back right and left sides of the enclosure. Use heat-set or solder-in nuts and melt them into the holes with a soldering iron until they are flush with the surface (see Figure 3).
 
+  <img src="bilder/Abbildung1.png" width="50%" text-align: center>
+
+  _Figure 1_
+
+  <img src="bilder/Abbildung2.png" width="50%" text-align: center>
+
+  _Figure 2_
+
+  <img src="bilder/Abbildung3.png" width="50%" text-align: center>
+
+  _Figure 3_
+
 ### 8. Installing the Circuit Board
 Slide the circuit board horizontally into the enclosure from the back, with the large copper areas facing forward. Connect the 9V battery and place it under the circuit board.
 
